@@ -1,6 +1,6 @@
 *.css linguist-detectable=false
 *.java linguist-detectable=false
-*.dart linguist-language=dart 
+*.dart linguist-language=Dart 
 *.js linguist-detectable=false
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false 
